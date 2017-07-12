@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "ducanh205/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -9,7 +9,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "ducanh205\\HelloComposer\\": "src/"
         }
     }
 }
